@@ -23,6 +23,11 @@ Computer chose water
 🐍 Snake drank the water! You win!
 Current Score -> You: 1, Computer: 0
 Play multiple rounds and track your score easily!
+Here’s how the game looks when played in the terminal:
+
+![Game Screenshot](ofC2GosTvy3LqTi4PabZS.png)
+
+
 
 
 ## How to Run

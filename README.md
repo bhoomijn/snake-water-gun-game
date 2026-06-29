@@ -36,7 +36,7 @@ Play multiple rounds and track your score easily!
 
 
 
-🚀 Features
+## 🚀 Features
 Multiple rounds with score tracking
 
 Replay option after game ends

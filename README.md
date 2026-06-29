@@ -28,7 +28,7 @@ Play multiple rounds and track your score easily!
 ## How to Run
 
 Clone the repository:
-```bash
+``bash
 git clone https://github.com/bhoomijn/snake-water-gun-game.git
 cd snake-water-gun-game
 

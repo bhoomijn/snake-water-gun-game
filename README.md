@@ -25,25 +25,24 @@ Current Score -> You: 1, Computer: 0
 Play multiple rounds and track your score easily!
 
 
-# How to Run
+## How to Run
 
 Clone the repository:
 ```bash
 git clone https://github.com/bhoomijn/snake-water-gun-game.git
 cd snake-water-gun-game
 
-Run the game
+Run the game:
 
 python3 snake_water_gun.py
 
-
 # 🚀 Features
 
-Multiple rounds with score tracking
+🎮 Multiple rounds with score tracking
 
-Replay option after game ends
+🔄 Replay option after game ends
 
-Clear and fun output messages
+📊 Clear and fun output messages
 
 Developed using Python
 

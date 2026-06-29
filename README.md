@@ -3,7 +3,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/bhoomijn/snake-water-gun-game)
 ![License](https://img.shields.io/github/license/bhoomijn/snake-water-gun-game)
 
-A beginner-friendly Python mini-project showcasing functions, loops, and randomization.
+A beginner-friendly Python mini-project showcasing functions, loops, conditionals, and randomization.
 
 # Snake-Water-Gun Game 🎮
 
@@ -45,10 +45,17 @@ Clear and fun output messages
 
 Developed using Python
 
+Input validation for wrong choices
+
+Replay logic improvements
+
+Fun win/lose messages
+
 
 ---
 
 ---
 
-📌 This project is part of my Python learning journey at VIT.
+📌 This project is part of my Python learning journey as an incoming Integrated M.Tech AIML student at VIT.
+
 

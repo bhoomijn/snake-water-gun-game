@@ -39,7 +39,6 @@ python3 snake_water_gun.py
 
 # 🚀 Features
 
-
 Multiple rounds with score tracking
 
 Replay option after game ends

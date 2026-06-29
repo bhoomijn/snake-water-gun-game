@@ -16,7 +16,7 @@ Developed using Python with clear rules, score tracking, and replay option.
 - 🔫 Gun kills Snake → Gun wins  
 - Same choice → It's a draw  
 
-### Example Gameplay
+# Example Gameplay
 
 Round 1: Enter your choice (snake, water, gun): snake
 Computer chose water
@@ -25,7 +25,7 @@ Current Score -> You: 1, Computer: 0
 Play multiple rounds and track your score easily!
 
 
-## How to Run
+# How to Run
 
 Clone the repository:
 ```bash
@@ -37,7 +37,7 @@ Run the game
 python3 snake_water_gun.py
 
 
-## 🚀 Features
+# 🚀 Features
 
 
 Multiple rounds with score tracking

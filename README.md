@@ -23,7 +23,6 @@ Computer chose water
 🐍 Snake drank the water! You win!
 Current Score -> You: 1, Computer: 0
 Play multiple rounds and track your score easily!
-Here’s how the game looks when played in the termina
 
 
 ## How to Run
@@ -34,9 +33,11 @@ git clone https://github.com/bhoomijn/snake-water-gun-game.git
 cd snake-water-gun-game
 
 
+
 Run the game:
 
 python3 snake_water_gun.py
+
 
 
 ## 🚀 Features

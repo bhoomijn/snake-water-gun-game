@@ -25,9 +25,13 @@ Current Score -> You: 1, Computer: 0
 Play multiple rounds and track your score easily!
 Here’s how the game looks when played in the terminal:
 
-![Game Screenshot](## 🎮 Game Preview
-![Game Screenshot](https://copilot.microsoft.com/th/id/BCO.b238ac45-063a-4cdf-9e6f-61603cf4e3e7.png)
-)
+
+## 🎮 Example Gameplay
+
+Here’s how the game looks when played in the terminal:
+
+![Game Screenshot](kq9GSN9vTNCr2MH7v92WD.png)
+
 
 
 

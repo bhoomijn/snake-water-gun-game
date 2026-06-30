@@ -36,7 +36,6 @@ This screenshot demonstrates the terminal output with rounds, choices, and score
 
 
 
-
 ## How to Run
 
 Clone the repository:

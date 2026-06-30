@@ -32,9 +32,7 @@ Here’s how the game looks when played in the terminal:
 
 This screenshot demonstrates the terminal output with rounds, choices, and score tracking.
 
-![Game Screenshot](game-output.png)
-![Game Screenshot](images/game-output.png)
-![Game Screenshot](screenshots/game-output.png)
+![Game Screenshot](https://raw.githubusercontent.com/bhoomijn/snake-water-gun-game/main/game-output.png)
 
 
 

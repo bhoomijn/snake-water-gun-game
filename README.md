@@ -5,7 +5,7 @@
 
 A beginner-friendly Python mini-project showcasing functions, loops, conditionals, and randomization.
 
-# Snake-Water-Gun Game 🎮
+## Snake-Water-Gun Game 🎮
 
 A simple Python mini-project implementing the classic **Snake-Water-Gun** game.  
 Developed using Python with clear rules, score tracking, and replay option.
@@ -16,7 +16,7 @@ Developed using Python with clear rules, score tracking, and replay option.
 - 🔫 Gun kills Snake → Gun wins  
 - Same choice → It's a draw  
 
-# Example Gameplay
+## Example Gameplay
 
 Round 1: Enter your choice (snake, water, gun): snake
 Computer chose water
@@ -28,7 +28,6 @@ Play multiple rounds and track your score easily!
 ## How to Run
 
 Clone the repository:
-``bash
 git clone https://github.com/bhoomijn/snake-water-gun-game.git
 cd snake-water-gun-game
 
@@ -37,7 +36,6 @@ cd snake-water-gun-game
 Run the game:
 
 python3 snake_water_gun.py
-
 
 
 ## 🚀 Features
@@ -50,8 +48,6 @@ python3 snake_water_gun.py
 - 🎉 Fun win/lose messages  
 
 
-
----
 
 ---
 

@@ -30,10 +30,12 @@ Here’s how the game looks when played in the terminal:
 
 Here’s how the game looks when played in the terminal:
 
-This screenshot demonstrates the terminal output with rounds, choices, and score tracking.
-![Game Screenshot](Ky849XaNCecP5j6Ji1hJo.png)
+## 🎮 Example Gameplay
 
-)
+Here’s how the game looks when played in the terminal:
+
+![Game Screenshot](ofC2GosTvy3LqTi4PabZS.png)
+
 
 
 

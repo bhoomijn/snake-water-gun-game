@@ -32,7 +32,7 @@ Here’s how the game looks when played in the terminal:
 
 This screenshot demonstrates the terminal output with rounds, choices, and score tracking.
 
-![Game Screenshot](kq9GSN9vTNCr2MH7v92WD.png)
+![Game Screenshot](game-output.png)
 
 
 

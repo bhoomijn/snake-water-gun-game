@@ -23,20 +23,7 @@ Computer chose water
 🐍 Snake drank the water! You win!
 Current Score -> You: 1, Computer: 0
 Play multiple rounds and track your score easily!
-Here’s how the game looks when played in the terminal:
-
-
-## 🎮 Example Gameplay
-
-Here’s how the game looks when played in the terminal:
-
-## 🎮 Example Gameplay
-
-Below is a sample gameplay output showing how rounds and scores appear:
-
-![Game Screenshot](game-output.png)
-
-
+Here’s how the game looks when played in the termina
 
 
 ## How to Run
@@ -46,25 +33,21 @@ Clone the repository:
 git clone https://github.com/bhoomijn/snake-water-gun-game.git
 cd snake-water-gun-game
 
+
 Run the game:
 
 python3 snake_water_gun.py
 
-# 🚀 Features
 
-🎮 Multiple rounds with score tracking
+## 🚀 Features
+- 🎮 Multiple rounds with score tracking  
+- 🔄 Replay option after game ends  
+- 📊 Clear and fun output messages  
+- 🐍 Developed using Python  
+- ✅ Input validation for wrong choices  
+- 🔁 Replay logic improvements  
+- 🎉 Fun win/lose messages  
 
-🔄 Replay option after game ends
-
-📊 Clear and fun output messages
-
-Developed using Python
-
-Input validation for wrong choices
-
-Replay logic improvements
-
-Fun win/lose messages
 
 
 ---

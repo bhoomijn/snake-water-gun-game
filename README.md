@@ -30,6 +30,8 @@ Here’s how the game looks when played in the terminal:
 
 Here’s how the game looks when played in the terminal:
 
+This screenshot demonstrates the terminal output with rounds, choices, and score tracking.
+
 ![Game Screenshot](https://1drv.ms/i/c/1fc79ff11c9f7605/IQDekeHExtXvRJbjkqWlokzxAUQLEiusWIfD9ysFiU8HbhY?e=PQOUAh
 
 

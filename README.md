@@ -30,7 +30,7 @@ Here’s how the game looks when played in the terminal:
 
 Here’s how the game looks when played in the terminal:
 
-![Game Screenshot](kq9GSN9vTNCr2MH7v92WD.png)
+![Game Screenshot](https://1drv.ms/i/c/1fc79ff11c9f7605/IQDekeHExtXvRJbjkqWlokzxAYwQo2d1klyJCZD5BZPFuOM?e=Z1s2Zh
 
 
 

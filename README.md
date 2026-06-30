@@ -32,9 +32,9 @@ Here’s how the game looks when played in the terminal:
 
 ## 🎮 Example Gameplay
 
-Here’s how the game looks when played in the terminal:
+Below is a sample gameplay output showing how rounds and scores appear:
 
-![Game Screenshot](ofC2GosTvy3LqTi4PabZS.png)
+![Game Screenshot](game-output.png)
 
 
 

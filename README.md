@@ -1,56 +1,66 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/bhoomijn/snake-water-gun-game)
-![Last commit](https://img.shields.io/github/last-commit/bhoomijn/snake-water-gun-game)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/github/license/bhoomijn/snake-water-gun-game)
 
-A beginner-friendly Python mini-project showcasing functions, loops, conditionals, and randomization.
+# Snake-Water-Gun Game 🎮
 
-## Snake-Water-Gun Game 🎮
-
-A simple Python mini-project implementing the classic **Snake-Water-Gun** game.  
-Developed using Python with clear rules, score tracking, and replay option.
-
-## 📝 Rules & Example Gameplay
-- 🐍 Snake drinks Water → Snake wins  
-- 💧 Water drowns Gun → Water wins  
-- 🔫 Gun kills Snake → Gun wins  
-- Same choice → It's a draw  
-
-## Example Gameplay
-
-Round 1: Enter your choice (snake, water, gun): snake
-Computer chose water
-🐍 Snake drank the water! You win!
-Current Score -> You: 1, Computer: 0
-Play multiple rounds and track your score easily!
-
-
-## How to Run
-
-Clone the repository:
-git clone https://github.com/bhoomijn/snake-water-gun-game.git
-cd snake-water-gun-game
-
-
-
-Run the game:
-
-python3 snake_water_gun.py
-
-
-## 🚀 Features
-- 🎮 Multiple rounds with score tracking  
-- 🔄 Replay option after game ends  
-- 📊 Clear and fun output messages  
-- 🐍 Developed using Python  
-- ✅ Input validation for wrong choices  
-- 🔁 Replay logic improvements  
-- 🎉 Fun win/lose messages  
-
-
+A Python implementation of the classic Snake-Water-Gun game with multiple rounds and score tracking.
 
 ---
 
-📌 This project is part of my Python learning journey as an incoming Integrated M.Tech AIML student at VIT.
+## 📝 Game Rules
 
+- 🐍 **Snake** drinks Water → Snake wins
+- 💧 **Water** drowns Gun → Water wins  
+- 🔫 **Gun** kills Snake → Gun wins
+- Same choice → Draw
 
+---
+
+## 🎮 Features
+
+- ✅ Multiple rounds with score tracking
+- ✅ Input validation for user choices
+- ✅ Clear game output messages
+- ✅ Replay option after game completion
+- ✅ Professional code structure
+
+---
+
+## ▶️ How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/bhoomijn/snake-water-gun-game.git
+cd snake-water-gun-game
+```
+
+Run the game:
+```bash
+python3 snake_water_gun.py
+```
+
+---
+
+## 📊 Example Gameplay
+
+```
+Round 1: Enter your choice (snake, water, gun): snake
+Computer chose: water
+🐍 Snake drank the water! You win!
+Score → You: 1, Computer: 0
+
+Play another round? (yes/no): yes
+```
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.10+
+- Standard Library modules (random, etc.)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
